@@ -13,7 +13,10 @@
 - Execute main.py  
 ```python src/main.py```  
 
+## Results
 
+A result.txt will be generated which contains the performance metrics.  
+The models folder will contain the saved model files.  
 
  
 
